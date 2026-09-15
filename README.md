@@ -28,7 +28,7 @@ const lioneel = {
     name: "Lioneel",
     role: "Developer",
     language: ["Indonesia", "English"],
-    hobbies: ["Coding", "Belajar hal baru", "Ngoprek project"],
+    hobbies: ["Coding", "Coding", "Main emel"],
     funFact: "Selalu penasaran sama teknologi baru 🚀"
 };
 ```
@@ -43,12 +43,12 @@ const lioneel = {
 
 | Skill | Progress |
 |:------|:---------|
-| **HTML** | ![](https://progress-bar.dev/100/?scale=100&width=250&color=667eea&suffix=%25) |
-| **CSS** | ![](https://progress-bar.dev/90/?scale=100&width=250&color=764ba2&suffix=%25) |
-| **JavaScript** | ![](https://progress-bar.dev/95/?scale=100&width=250&color=8e2de2&suffix=%25) |
-| **Java** | ![](https://progress-bar.dev/78/?scale=100&width=250&color=4a00e0&suffix=%25) |
-| **Python** | ![](https://progress-bar.dev/90/?scale=100&width=250&color=6a5acd&suffix=%25) |
-| **C++** | ![](https://progress-bar.dev/87/?scale=100&width=250&color=5f27cd&suffix=%25) |
+| **HTML** | ![100%](https://progress-bar.dev/100/?scale=100&width=250&color=667eea&suffix=%25) |
+| **CSS** | ![90%](https://progress-bar.dev/90/?scale=100&width=250&color=764ba2&suffix=%25) |
+| **JavaScript** | ![90%](https://progress-bar.dev/95/?scale=100&width=250&color=8e2de2&suffix=%25) |
+| **Java** | ![87%](https://progress-bar.dev/78/?scale=100&width=250&color=4a00e0&suffix=%25) |
+| **Python** | ![95%](https://progress-bar.dev/90/?scale=100&width=250&color=6a5acd&suffix=%25) |
+| **C++** | ![70%](https://progress-bar.dev/87/?scale=100&width=250&color=5f27cd&suffix=%25) |
 
 </div>
 
@@ -93,7 +93,7 @@ const lioneel = {
 
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+<img src="[https://capsule-render.com/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer](https://img.sanishtech.com/u/4e6490f13e246607dc8aa42117d20d33.jpg)"/>
 
 **Terima kasih sudah mampir! Jangan lupa follow ya ⭐**
 
