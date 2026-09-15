@@ -1,319 +1,100 @@
 <div align="center">
 
-# LIONEEL
+<img src="https://capsule-render.com/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There,%20I'm%20Lioneel%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18" width="100%"/>
 
-### Developer • Programmer • Technology Enthusiast
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=180&section=header&text=LIONEEL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Passionate+About+Coding+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Always+Learning+Something+New;Building+Ideas+into+Code" alt="Typing SVG"/>
+<br/>
 
-<br>
+<div align="center">
 
-<p>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/SKILLS-2563EB?style=for-the-badge&logoColor=white">
-  </a>
-  <a href="#contact-me">
-    <img src="https://img.shields.io/badge/CONTACT-7C3AED?style=for-the-badge&logoColor=white">
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Lioneel&color=8e2de2&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Lioneel?color=667eea&style=for-the-badge&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## ABOUT ME
+## 🧑‍💻 Tentang Saya
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="280" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-### Hi, I'm Lioneel
+```javascript
+const lioneel = {
+    name: "Lioneel",
+    role: "Developer",
+    language: ["Indonesia", "English"],
+    hobbies: ["Coding", "Belajar hal baru", "Ngoprek project"],
+    funFact: "Selalu penasaran sama teknologi baru 🚀"
+};
+```
 
-I'm a developer who enjoys creating modern websites, applications, and digital projects.
-
-I like turning ideas into clean, functional, and visually attractive interfaces.
-
-**What I enjoy:**
-
-* Web Development
-* Software Development
-* UI / UX
-* Programming
-* Learning new technologies
-* Building personal projects
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=7C3AED&text_color=64748B" width="100%">
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-<a name="skills"></a>
-
-# SKILLS
-
-### Programming & Development
-
-<table width="100%">
-<tr>
-
-<td align="center" width="14%">
-
-### HTML
-
-<img src="https://skillicons.dev/icons?i=html" width="55">
-
-<br><br>
-
-**100%**
-
-</td>
-
-<td align="center" width="14%">
-
-### CSS
-
-<img src="https://skillicons.dev/icons?i=css" width="55">
-
-<br><br>
-
-**90%**
-
-</td>
-
-<td align="center" width="14%">
-
-### JavaScript
-
-<img src="https://skillicons.dev/icons?i=javascript" width="55">
-
-<br><br>
-
-**95%**
-
-</td>
-
-<td align="center" width="14%">
-
-### Java
-
-<img src="https://skillicons.dev/icons?i=java" width="55">
-
-<br><br>
-
-**78%**
-
-</td>
-
-<td align="center" width="14%">
-
-### Python
-
-<img src="https://skillicons.dev/icons?i=python" width="55">
-
-<br><br>
-
-**90%**
-
-</td>
-
-<td align="center" width="14%">
-
-### C++
-
-<img src="https://skillicons.dev/icons?i=cpp" width="55">
-
-<br><br>
-
-**87%**
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### SKILL LEVEL
-
-<table width="100%">
-
-<tr>
-<td width="20%"><b>HTML</b></td>
-<td width="65%">
-<img src="https://progress-bar.dev/100/?width=500&color=2563EB">
-</td>
-<td width="15%" align="right"><b>100%</b></td>
-</tr>
-
-<tr>
-<td><b>CSS</b></td>
-<td>
-<img src="https://progress-bar.dev/90/?width=500&color=6366F1">
-</td>
-<td align="right"><b>90%</b></td>
-</tr>
-
-<tr>
-<td><b>JavaScript</b></td>
-<td>
-<img src="https://progress-bar.dev/95/?width=500&color=7C3AED">
-</td>
-<td align="right"><b>95%</b></td>
-</tr>
-
-<tr>
-<td><b>Java</b></td>
-<td>
-<img src="https://progress-bar.dev/78/?width=500&color=8B5CF6">
-</td>
-<td align="right"><b>78%</b></td>
-</tr>
-
-<tr>
-<td><b>Python</b></td>
-<td>
-<img src="https://progress-bar.dev/90/?width=500&color=6366F1">
-</td>
-<td align="right"><b>90%</b></td>
-</tr>
-
-<tr>
-<td><b>C++</b></td>
-<td>
-<img src="https://progress-bar.dev/87/?width=500&color=9333EA">
-</td>
-<td align="right"><b>87%</b></td>
-</tr>
-
-</table>
-
----
-
-# TECHNOLOGIES
+## 🚀 Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,git,github,vscode&perline=9" />
+| Skill | Progress |
+|:------|:---------|
+| **HTML** | ![](https://progress-bar.dev/100/?scale=100&width=250&color=667eea&suffix=%25) |
+| **CSS** | ![](https://progress-bar.dev/90/?scale=100&width=250&color=764ba2&suffix=%25) |
+| **JavaScript** | ![](https://progress-bar.dev/95/?scale=100&width=250&color=8e2de2&suffix=%25) |
+| **Java** | ![](https://progress-bar.dev/78/?scale=100&width=250&color=4a00e0&suffix=%25) |
+| **Python** | ![](https://progress-bar.dev/90/?scale=100&width=250&color=6a5acd&suffix=%25) |
+| **C++** | ![](https://progress-bar.dev/87/?scale=100&width=250&color=5f27cd&suffix=%25) |
+
+</div>
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-667eea?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-764ba2?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8e2de2?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4a00e0?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6a5acd?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-5f27cd?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-# GITHUB STATISTICS
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&bg_color=0F172A&title_color=60A5FA&icon_color=A78BFA&text_color=E2E8F0" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Lioneel&show_icons=true&hide_border=true&title_color=8e2de2&icon_color=667eea&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioneel&layout=compact&hide_border=true&title_color=8e2de2&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0F172A&ring=6366F1&fire=9333EA&currStreakLabel=60A5FA&sideLabels=E2E8F0&dates=94A3B8" width="49%">
+<br/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lioneel&hide_border=true&background=0d1117&ring=8e2de2&fire=764ba2&currStreakLabel=667eea" width="65%"/>
 
 </div>
 
 ---
 
-# PROJECTS
+## 📬 Contact Me
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## PROJECT 01
-
-Modern Web Application
-
-<br>
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="33%" align="center">
-
-## PROJECT 02
-
-Java Application
-
-<br>
-
-`Java` `OOP` `Programming`
-
-</td>
-
-<td width="33%" align="center">
-
-## PROJECT 03
-
-Python Project
-
-<br>
-
-`Python` `Automation` `Logic`
-
-</td>
-
-</tr>
-</table>
+[![Gmail](https://img.shields.io/badge/Gmail-lioneeladrianus81@gmail.com-667eea?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lioneeladrianus81@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-085280070340-8e2de2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285280070340)
 
 </div>
 
----
-
-<a name="contact-me"></a>
-
-# CONTACT ME
+<br/>
 
 <div align="center">
 
-### Let's Connect
+<img src="https://capsule-render.com/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
-If you have a project, idea, or collaboration in mind, feel free to contact me.
-
-<br>
-
-<a href="mailto:lioneladrianus81@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-lioneeladrianus81%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://wa.me/6285280070340">
-<img src="https://img.shields.io/badge/WHATSAPP-085280070340-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### LIONEEL
-
-**Code • Create • Learn • Improve**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6366F1,100:9333EA&height=120&section=footer"/>
+**Terima kasih sudah mampir! Jangan lupa follow ya ⭐**
 
 </div>
