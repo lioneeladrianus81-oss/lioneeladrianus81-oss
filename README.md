@@ -55,7 +55,7 @@
 
 | Skill | Level |
 |:------|:------|
-| **HTML** | ![](https://progress-bar.dev/100/?scale=100&width=260&color=667eea&suffix=%25) |
+| **HTML** | ![](100) |
 | **CSS** | ![](https://progress-bar.dev/90/?scale=100&width=260&color=764ba2&suffix=%25) |
 | **JavaScript** | ![](https://progress-bar.dev/95/?scale=100&width=260&color=8e2de2&suffix=%25) |
 | **Java** | ![](https://progress-bar.dev/78/?scale=100&width=260&color=a855f7&suffix=%25) |
