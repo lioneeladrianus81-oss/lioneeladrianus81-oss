@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./hero-banner.svg" alt="Lioneel Banner" width="100%"/>
+<!-- 🖼️ GANTI LINK DI BAWAH INI DENGAN LINK JPG BANNER KAMU -->
+<!-- Contoh: https://i.imgur.com/xxxxxxx.jpg -->
+<img src="(https://img.sanishtech.com/u/4e6490f13e246607dc8aa42117d20d33.jpg)" alt="Lioneel Banner" width="100%"/>
 
 <br/>
 
@@ -55,7 +57,7 @@
 
 | Skill | Level |
 |:------|:------|
-| **HTML** | ![](100) |
+| **HTML** | ![](https://progress-bar.dev/100/?scale=100&width=260&color=667eea&suffix=%25) |
 | **CSS** | ![](https://progress-bar.dev/90/?scale=100&width=260&color=764ba2&suffix=%25) |
 | **JavaScript** | ![](https://progress-bar.dev/95/?scale=100&width=260&color=8e2de2&suffix=%25) |
 | **Java** | ![](https://progress-bar.dev/78/?scale=100&width=260&color=a855f7&suffix=%25) |
